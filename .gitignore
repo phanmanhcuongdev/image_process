@@ -2,3 +2,5 @@ backup/
 backup_before_crop/
 images/
 images.zip
+processed/
+__pycache__/
